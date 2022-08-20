@@ -5,7 +5,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class LoginSeps2 {
-
+//Additional checks done
 
 	@Given("user is login page")
 	public void user_is_login_page() {
